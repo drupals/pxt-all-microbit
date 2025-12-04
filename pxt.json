@@ -5,6 +5,7 @@
     "dependencies": {
         "core": "*",
         "irRemote": "github:emakefun/pxt-irRemote",
+         "oled-1106": "github:emakefun/pxt-irRemote",
         "Sensorbit": "github:emakefun/pxt-sensorbit"
     },
     "files": [
